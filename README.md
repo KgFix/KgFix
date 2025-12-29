@@ -1,4 +1,4 @@
-<a href="https://github.com/Andrew6rant/Andrew6rant">
+<a href="https://github.com/KgFix/KgFix">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KgFix/KgFix/main/dark_mode.svg">
     <img alt="Andrew Grant's GitHub Profile README" src="https://raw.githubusercontent.com/KgFix/KgFix/main/light_mode.svg">
