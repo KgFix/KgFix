@@ -41,18 +41,16 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="450">  *#*******######***%-....%#@=-.-.+%%%%            </tspan>
 </text>
 <text x="390" y="30" fill="#c9d1d9">
-<tspan x="390" y="30">- About Me</tspan> -——————————————————————————————————————————————————————————-—-
-<tspan x="390" y="50" class="cc">  </tspan><tspan class="value">Final-year Computer Science student focused on creating</tspan>
-<tspan x="390" y="68" class="cc">          </tspan><tspan class="value">high-quality, meaningful solutions. Strong engineering</tspan>
-<tspan x="390" y="86" class="cc">          </tspan><tspan class="value">foundation with focus on architecting for scalability and</tspan>
-<tspan x="390" y="104" class="cc">          </tspan><tspan class="value">performance optimization. Growing experience across full</tspan>
-<tspan x="390" y="122" class="cc">          </tspan><tspan class="value">SDLC including CI/CD and cloud technologies (AWS/Docker).</tspan>
-<tspan x="390" y="140" class="cc">          </tspan><tspan class="value">Seeking immersive opportunities to expand technical</tspan>
-<tspan x="390" y="158" class="cc">          </tspan><tspan class="value">horizons in collaborative environments.</tspan>
+<tspan x="390" y="30">About Me:</tspan> -——————————————————————————————————————————————————————————-—-
+<tspan x="390" y="50" class="cc">  </tspan><tspan class="value">Hello! Welcome to my Github Profile!</tspan>
+<tspan x="390" y="68" class="cc">  </tspan><tspan class="value">My name is Kirone: Software Engineer | Computer Science</tspan>
+<tspan x="390" y="86" class="cc">  </tspan><tspan class="value">Graduate @ UKZN</tspan>
+<tspan x="390" y="104" class="cc">  </tspan><tspan class="value">I love experiencing art in all forms, whether it be in code,</tspan>
+<tspan x="390" y="122" class="cc">  </tspan><tspan class="value">games, shows or music!</tspan>
 <tspan x="390" y="185">- Contact</tspan> -——————————————————————————————————————————————————————————-—-
-<tspan x="390" y="205" class="cc">  </tspan><tspan class="key">Email</tspan>:<tspan class="cc">                                               </tspan><tspan class="value">kir+github@gmail.com</tspan>
-<tspan x="390" y="225" class="cc">  </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc">                                                       </tspan><tspan class="value">temp</tspan>
-<tspan x="390" y="245" class="cc">  </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc">                                                      </tspan><tspan class="value">temp</tspan>
+<tspan x="390" y="205" class="cc">  </tspan><tspan class="key">Email</tspan>: <tspan class="value">kir+github@gmail.com</tspan>
+<tspan x="390" y="225" class="cc">  </tspan><tspan class="key">LinkedIn</tspan>: <tspan class="value">temp</tspan>
+<tspan x="390" y="245" class="cc">  </tspan><tspan class="key">Portfolio</tspan>: <tspan class="value">temp</tspan>
 <tspan x="390" y="275">- Technical Skills</tspan> -————————————————————————————————————————————————-—-
 <tspan x="390" y="295" class="cc">  </tspan><tspan class="key">Languages</tspan>:<tspan class="cc">                                                            </tspan>
 <tspan x="390" y="313" class="cc">    </tspan><tspan class="value">C++, C#, Delphi, Java, Python, SQL, TypeScript, HLSL/GLSL</tspan>
