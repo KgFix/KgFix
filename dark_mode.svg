@@ -37,40 +37,40 @@ a:hover .value {fill: #58a6ff;}
 <tspan x="12" y="330">    ŸéøméÜéÜškôfý    ÃªT    LææÂEÂqXêR</tspan>
 <tspan x="12" y="350">  ñÜÙøÿÖÚ$äbð§TOø  ôÛ‰ÜØÆá  JN#RQÁêA€Š</tspan>
 </text>
-<text x="390" y="30" fill="#c9d1d9">
-<tspan x="390" y="30">About Me: ————————————————————————————————————————————————————————————</tspan>
-<tspan x="390" y="50" class="cc">  </tspan><tspan class="value">Hello World! Welcome to my Github Profile!</tspan>
-<tspan x="390" y="68" class="cc">  </tspan><tspan class="value">My name is Kirone: Software Engineer | Computer Science Graduate @ UKZN</tspan>
-<tspan x="390" y="86" class="cc">  </tspan><tspan class="value">I love experiencing art in all forms, whether it be in code, games, shows, or music!</tspan>
-<tspan x="390" y="116">- Contact ————————————————————————————————————————————————————————————</tspan>
+<text x="370" y="30" fill="#c9d1d9">
+<tspan x="370" y="30">About Me: ———————————————————————————————————————————————————————</tspan>
+<tspan x="370" y="50" class="cc">  </tspan><tspan class="value">Hello World! Welcome to my Github Profile!</tspan>
+<tspan x="370" y="68" class="cc">  </tspan><tspan class="value">My name is Kirone: Software Engineer | Computer Science Graduate @ UKZN</tspan>
+<tspan x="370" y="86" class="cc">  </tspan><tspan class="value">I love experiencing art in all forms, whether it be in code, games, shows, or music!</tspan>
+<tspan x="370" y="116">- Contact ———————————————————————————————————————————————————————</tspan>
 </text>
 
 <a href="mailto:kirgopaul+github@gmail.com">
-<text x="390" y="136" fill="#c9d1d9">
+<text x="370" y="136" fill="#c9d1d9">
 <tspan class="cc">  </tspan><tspan class="key">Email</tspan>: <tspan class="value">kirgopaul+github@gmail.com</tspan>
 </text>
 </a>
 
 <a href="https://linkedin.com/in/kironegopaul" target="_blank">
-<text x="390" y="154" fill="#c9d1d9">
+<text x="370" y="154" fill="#c9d1d9">
 <tspan class="cc">  </tspan><tspan class="key">LinkedIn</tspan>: <tspan class="value">https://linkedin.com/in/kironegopaul</tspan>
 </text>
 </a>
 
 <a href="https://kironegopaul.netlify.app/" target="_blank">
-<text x="390" y="172" fill="#c9d1d9">
+<text x="370" y="172" fill="#c9d1d9">
 <tspan class="cc">  </tspan><tspan class="key">Portfolio</tspan>: <tspan class="value">https://kironegopaul.netlify.app/</tspan>
 </text>
 </a>
 
-<text x="390" y="222" fill="#c9d1d9">
-<tspan x="390" y="222">- Technical Skills ————————————————————————————————————————————————</tspan>
-<tspan x="390" y="242" class="cc">  </tspan><tspan class="key">Languages</tspan>:
-<tspan x="390" y="260" class="cc">    </tspan><tspan class="value">C++, C#, Delphi, Java, Python, SQL, TypeScript, HLSL/GLSL</tspan>
-<tspan x="390" y="285" class="cc">  </tspan><tspan class="key">Frameworks &amp; Libraries</tspan>:
-<tspan x="390" y="303" class="cc">    </tspan><tspan class="value">React, Node.js, FastAPI, Flask, Pandas, Unity, SFML</tspan>
-<tspan x="390" y="328" class="cc">  </tspan><tspan class="key">Cloud &amp; Tools</tspan>:
-<tspan x="390" y="346" class="cc">    </tspan><tspan class="value">AWS (EC2, DynamoDB), Oracle Cloud Infrastructure, Docker,</tspan>
-<tspan x="390" y="364" class="cc">    </tspan><tspan class="value">CI/CD (GitHub Actions), Git, Blender</tspan>
+<text x="370" y="222" fill="#c9d1d9">
+<tspan x="370" y="222">- Technical Skills ———————————————————————————————————————————</tspan>
+<tspan x="370" y="242" class="cc">  </tspan><tspan class="key">Languages</tspan>:
+<tspan x="370" y="260" class="cc">    </tspan><tspan class="value">C++, C#, Delphi, Java, Python, SQL, TypeScript, HLSL/GLSL</tspan>
+<tspan x="370" y="285" class="cc">  </tspan><tspan class="key">Frameworks &amp; Libraries</tspan>:
+<tspan x="370" y="303" class="cc">    </tspan><tspan class="value">React, Node.js, FastAPI, Flask, Pandas, Unity, SFML</tspan>
+<tspan x="370" y="328" class="cc">  </tspan><tspan class="key">Cloud &amp; Tools</tspan>:
+<tspan x="370" y="346" class="cc">    </tspan><tspan class="value">AWS (EC2, DynamoDB), Oracle Cloud Infrastructure, Docker,</tspan>
+<tspan x="370" y="364" class="cc">    </tspan><tspan class="value">CI/CD (GitHub Actions), Git, Blender</tspan>
 </text>
 </svg>
