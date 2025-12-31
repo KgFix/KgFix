@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1100px" height="750px" font-size="15px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1100px" height="520px" font-size="15px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -15,48 +15,42 @@ size-adjust: 109%;
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="1100px" height="750px" fill="#161b22" rx="15"/>
+<rect width="1100px" height="520px" fill="#161b22" rx="15"/>
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="30">                    :-*#%%%%%%%%@@                 </tspan>
-<tspan x="15" y="50">                =-%@%@@@@%@@@@@@@@@@               </tspan>
-<tspan x="15" y="70">               -%@@@@@@%@%@@@@@@@@@@@*             </tspan>
-<tspan x="15" y="90">               *@%@@@%%%%@@@@@@@@@@@@%%-           </tspan>
-<tspan x="15" y="110">               %%@@%+-+#*%%@@%%@@@@@@@%           </tspan>
-<tspan x="15" y="130">               %@@%=----+*%@%%%@@@@@@%%            </tspan>
-<tspan x="15" y="150">                %@+++*#*---=%@@@%%@%@@             </tspan>
-<tspan x="15" y="170">                 @-=-=#*=--#%*+*###*%              </tspan>
-<tspan x="15" y="190">                 #-=-=**+==#%%#%##*+%              </tspan>
-<tspan x="15" y="210">                 --:::---:-*####*++++              </tspan>
-<tspan x="15" y="230">                  --:::-:::+*#******-              </tspan>
-<tspan x="15" y="250">                  ==-::---=##****##*               </tspan>
-<tspan x="15" y="270">                  -==-:::-+=***####                </tspan>
-<tspan x="15" y="290">                   ===-:-:-=+%####=                </tspan>
-<tspan x="15" y="310">                    ===-:-+++*###%                 </tspan>
-<tspan x="15" y="330">                   #.-=-::++##%#%%:#               </tspan>
-<tspan x="15" y="350">                ***#..--==+**%%#*::@%%-            </tspan>
-<tspan x="15" y="370">            ##%%#**#....%==++*+.::-%%%%            </tspan>
-<tspan x="15" y="390">      -##########*##-.....-%:...:-+%%%%            </tspan>
-<tspan x="15" y="410">   #%%%%#########***%...%+*%%@=:::#%%%%            </tspan>
-<tspan x="15" y="430">  -##############****::::%*#@@+:.:-%%%%            </tspan>
-<tspan x="15" y="450">  *#*******######***%-....%#@=-.-.+%%%%            </tspan>
+<tspan x="15" y="30">              mŠÆ#NŠÁÈŒÅÊØÆŒ             </tspan>
+<tspan x="15" y="50">              ËÆÆÆÆÆØAÑÆÆÆÆÆÆÉ            </tspan>
+<tspan x="15" y="70">             ØÃÆÆÄÄÃÆÆMÆÑÆÆÆÆMÉþ          </tspan>
+<tspan x="15" y="90">             ŒÆÂm–vãâEØŒÃËÆÆÆÆÆË:         </tspan>
+<tspan x="15" y="110">             Êþz¹'  –£RŽÜÂŒÑÑÊËÁ          </tspan>
+<tspan x="15" y="130">              Æ*  ­‡  jðÆh§ñŠÆÁ           </tspan>
+<tspan x="15" y="150">              õ…ïIÃ½—;ÚÃâbÂMžeú           </tspan>
+<tspan x="15" y="170">              ›    ¸  ™ÿýñ4@¢¢            </tspan>
+<tspan x="15" y="190">                      ?ôDõyô5v            </tspan>
+<tspan x="15" y="210">               ÷­   '*2ñžy®PZ             </tspan>
+<tspan x="15" y="230">               ¡ª¸ ˜/¡9P4¾hëP             </tspan>
+<tspan x="15" y="250">                 |¨  ¸c0yÇýë              </tspan>
+<tspan x="15" y="270">                 :²¨  JfZøŠA              </tspan>
+<tspan x="15" y="290">             ­4y  `´*÷‰SŠ¶p  ÉÄ           </tspan>
+<tspan x="15" y="310">         ÌâGãbôw¸   Â"*n2   ˜WÂÂWQRÒ      </tspan>
+<tspan x="15" y="330">    ŸéøméÜéÜškôfý    ÃªT    LææÂEÂqXêRgÕé </tspan>
+<tspan x="15" y="350">  ñÜÙøÿÖÚ$äbð§TOø  ôÛ‰ÜØÆá  JN#RQÁêA€ŠXœKÄ</tspan>
 </text>
 <text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">About Me:</tspan> -——————————————————————————————————————————————————————————-—-
 <tspan x="390" y="50" class="cc">  </tspan><tspan class="value">Hello World! Welcome to my Github Profile!</tspan>
 <tspan x="390" y="68" class="cc">  </tspan><tspan class="value">My name is Kirone: Software Engineer | Computer Science Graduate @ UKZN</tspan>
-<tspan x="390" y="104" class="cc">  </tspan><tspan class="value">I love experiencing art in all forms, whether it be in code, games, shows or music!</tspan>
-<tspan x="390" y="185">- Contact</tspan> -——————————————————————————————————————————————————————————-—-
-<tspan x="390" y="205" class="cc">  </tspan><tspan class="key">Email</tspan>: <tspan class="value">kir+github@gmail.com</tspan>
-<tspan x="390" y="225" class="cc">  </tspan><tspan class="key">LinkedIn</tspan>: <tspan class="value">temp</tspan>
-<tspan x="390" y="245" class="cc">  </tspan><tspan class="key">Portfolio</tspan>: <tspan class="value">temp</tspan>
-<tspan x="390" y="275">- Technical Skills</tspan> -————————————————————————————————————————————————-—-
-<tspan x="390" y="295" class="cc">  </tspan><tspan class="key">Languages</tspan>:<tspan class="cc">                                                            </tspan>
-<tspan x="390" y="313" class="cc">    </tspan><tspan class="value">C++, C#, Delphi, Java, Python, SQL, TypeScript, HLSL/GLSL</tspan>
-<tspan x="390" y="338" class="cc">  </tspan><tspan class="key">Frameworks &amp; Libraries</tspan>:<tspan class="cc">                                                </tspan>
-<tspan x="390" y="356" class="cc">    </tspan><tspan class="value">React, Node.js, FastAPI, Flask, Pandas, Unity, SFML</tspan>
-<tspan x="390" y="381" class="cc">  </tspan><tspan class="key">Cloud &amp; Tools</tspan>:<tspan class="cc">                                                            </tspan>
-<tspan x="390" y="399" class="cc">    </tspan><tspan class="value">AWS (EC2, DynamoDB), Oracle Cloud Infrastructure, Docker,</tspan>
-<tspan x="390" y="417" class="cc">    </tspan><tspan class="value">CI/CD (GitHub Actions), Git, Blender</tspan>
-
+<tspan x="390" y="86" class="cc">  </tspan><tspan class="value">I love experiencing art in all forms, whether it be in code, games, shows or music!</tspan>
+<tspan x="390" y="116">- Contact</tspan> -——————————————————————————————————————————————————————————-—-
+<tspan x="390" y="136" class="cc">  </tspan><tspan class="key">Email</tspan>: <tspan class="value">kir+github@gmail.com</tspan>
+<tspan x="390" y="154" class="cc">  </tspan><tspan class="key">LinkedIn</tspan>: <tspan class="value">temp</tspan>
+<tspan x="390" y="172" class="cc">  </tspan><tspan class="key">Portfolio</tspan>: <tspan class="value">temp</tspan>
+<tspan x="390" y="202">- Technical Skills</tspan> -————————————————————————————————————————————————-—-
+<tspan x="390" y="222" class="cc">  </tspan><tspan class="key">Languages</tspan>:<tspan class="cc">                                                            </tspan>
+<tspan x="390" y="240" class="cc">    </tspan><tspan class="value">C++, C#, Delphi, Java, Python, SQL, TypeScript, HLSL/GLSL</tspan>
+<tspan x="390" y="265" class="cc">  </tspan><tspan class="key">Frameworks &amp; Libraries</tspan>:<tspan class="cc">                                                </tspan>
+<tspan x="390" y="283" class="cc">    </tspan><tspan class="value">React, Node.js, FastAPI, Flask, Pandas, Unity, SFML</tspan>
+<tspan x="390" y="308" class="cc">  </tspan><tspan class="key">Cloud &amp; Tools</tspan>:<tspan class="cc">                                                            </tspan>
+<tspan x="390" y="326" class="cc">    </tspan><tspan class="value">AWS (EC2, DynamoDB), Oracle Cloud Infrastructure, Docker,</tspan>
+<tspan x="390" y="344" class="cc">    </tspan><tspan class="value">CI/CD (GitHub Actions), Git, Blender</tspan>
 </text>
 </svg>
