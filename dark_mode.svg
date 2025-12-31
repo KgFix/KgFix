@@ -47,19 +47,19 @@ a:hover .value {fill: #58a6ff;}
 
 <a href="mailto:kirgopaul+github@gmail.com">
 <text x="325" y="110" fill="#c9d1d9">
-<tspan class="cc">  </tspan><tspan class="key">Email</tspan>: <tspan class="value">kirgopaul+github@gmail.com</tspan>
+<tspan class="cc">  </tspan><tspan class="key">Email</tspan>: <tspan class="value">     kirgopaul+github@gmail.com</tspan>
 </text>
 </a>
 
 <a href="https://linkedin.com/in/kironegopaul" target="_blank">
 <text x="325" y="130" fill="#c9d1d9">
-<tspan class="cc">  </tspan><tspan class="key">LinkedIn</tspan>: <tspan class="value">https://linkedin.com/in/kironegopaul</tspan>
+<tspan class="cc">  </tspan><tspan class="key">LinkedIn</tspan>: <tspan class="value">  https://linkedin.com/in/kironegopaul</tspan>
 </text>
 </a>
 
 <a href="https://kironegopaul.netlify.app/" target="_blank">
 <text x="325" y="150" fill="#c9d1d9">
-<tspan class="cc">  </tspan><tspan class="key">Portfolio</tspan>: <tspan class="value">https://kironegopaul.netlify.app/</tspan>
+<tspan class="cc">  </tspan><tspan class="key">Portfolio</tspan>: <tspan class="value"> https://kironegopaul.netlify.app/</tspan>
 </text>
 </a>
 
