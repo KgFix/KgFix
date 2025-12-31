@@ -43,7 +43,7 @@ a:hover .value {fill: #58a6ff;}
 <tspan x="325" y="50" class="cc">  </tspan><tspan class="value">Hello World! Welcome to my Github Profile!</tspan>
 <tspan x="325" y="70" class="cc">  </tspan><tspan class="value">My name is Kirone: Software Engineer | Computer Science Graduate @ UKZN</tspan>
 <tspan x="325" y="90" class="cc">  </tspan><tspan class="value">I love experiencing art in all forms, whether it be in code, games, shows, or music!</tspan>
-<tspan x="325" y="110">- Contact ———————————————————————————————————————————————————————</tspan>
+<tspan x="325" y="110">Contact  ————————————————————————————————————————————————————————</tspan>
 </text>
 
 <a href="mailto:kirgopaul+github@gmail.com">
@@ -65,7 +65,7 @@ a:hover .value {fill: #58a6ff;}
 </a>
 
 <text x="325" y="190" fill="#c9d1d9">
-<tspan x="325" y="190">- Technical Skills ———————————————————————————————————————————</tspan>
+<tspan x="325" y="190">Technical Skills —————————————————————————————————————————————</tspan>
 <tspan x="325" y="210" class="cc">  </tspan><tspan class="key">Languages</tspan>:
 <tspan x="325" y="230" class="cc">    </tspan><tspan class="value">C++, C#, Delphi, Java, Python, SQL, TypeScript, HLSL/GLSL</tspan>
 <tspan x="325" y="250" class="cc">  </tspan><tspan class="key">Frameworks &amp; Libraries</tspan>:
