@@ -19,58 +19,59 @@ a:hover .value {fill: #58a6ff;}
 </style>
 <rect width="1100px" height="380px" fill="#161b22" rx="15"/>
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="12" y="30">       mÆNŠÁÈŒÅÊØÆŒ           </tspan>
-<tspan x="12" y="50">     ËÆÆÆÆÆØAÑÆÆÆÆÆÆÉ         </tspan>
-<tspan x="12" y="70">    ØÃÆÆÄÄÃÆÆMÆÑÆÆÆÆMÉþ       </tspan>
-<tspan x="12" y="90">    ŒÆÂm–vãâEØŒÃËÆÆÆÆÆË:      </tspan>
-<tspan x="12" y="110">    Êþz¹'  –£RŽÜÂŒÑÑÊËÁ      </tspan>
-<tspan x="12" y="130">     Æ*  ­‡  jðÆh§ñŠÆÁ        </tspan>
-<tspan x="12" y="150">     õ…ïIÃ½—;ÚÃâbÂMžeú       </tspan>
-<tspan x="12" y="170">     ›    ¸  ™ÿýñ4@¢¢        </tspan>
-<tspan x="12" y="190">             ?ôDõyô5v        </tspan>
-<tspan x="12" y="210">      ÷­   '*2ñžy®PZ          </tspan>
-<tspan x="12" y="230">      ¡ª¸ ˜/¡9P4¾hëP         </tspan>
-<tspan x="12" y="250">        |¨  ¸c0yÇýë          </tspan>
-<tspan x="12" y="270">        :²¨  JfZøŠA          </tspan>
-<tspan x="12" y="290">    ­4y  `´*÷‰SŠ¶p  ÉÄ        </tspan>
-<tspan x="12" y="310">ÌâGãbôw¸   Â"*n2   ˜WÂÂWQRÒ  </tspan>
-<tspan x="12" y="330">ŸéøméÜéÜškôfý    ÃªT    LææÂEÂqXêR</tspan>
-<tspan x="12" y="350">ñÜÙøÿÖÚ$äbð§TOø  ôÛ‰ÜØÆá  JN#RQÁêA€Š</tspan>
+<tspan x="12" y="30">                mÆNŠÁÈŒÅÊØÆŒ           </tspan>
+<tspan x="12" y="50">              ËÆÆÆÆÆØAÑÆÆÆÆÆÆÉ         </tspan>
+<tspan x="12" y="70">             ØÃÆÆÄÄÃÆÆMÆÑÆÆÆÆMÉþ       </tspan>
+<tspan x="12" y="90">             ŒÆÂm–vãâEØŒÃËÆÆÆÆÆË:      </tspan>
+<tspan x="12" y="110">             Êþz¹'  –£RŽÜÂŒÑÑÊËÁ      </tspan>
+<tspan x="12" y="130">              Æ*  ­‡  jðÆh§ñŠÆÁ        </tspan>
+<tspan x="12" y="150">              õ…ïIÃ½—;ÚÃâbÂMžeú       </tspan>
+<tspan x="12" y="170">              ›    ¸  ™ÿýñ4@¢¢        </tspan>
+<tspan x="12" y="190">                      ?ôDõyô5v        </tspan>
+<tspan x="12" y="210">               ÷­   '*2ñžy®PZ          </tspan>
+<tspan x="12" y="230">               ¡ª¸ ˜/¡9P4¾hëP         </tspan>
+<tspan x="12" y="250">                 |¨  ¸c0yÇýë          </tspan>
+<tspan x="12" y="270">                 :²¨  JfZøŠA          </tspan>
+<tspan x="12" y="290">             ­4y  `´*÷‰SŠ¶p  ÉÄ        </tspan>
+<tspan x="12" y="310">         ÌâGãbôw¸   Â"*n2   ˜WÂÂWQRÒ  </tspan>
+<tspan x="12" y="330">    ŸéøméÜéÜškôfý    ÃªT    LææÂEÂqXêR</tspan>
+<tspan x="12" y="350">  ñÜÙøÿÖÚ$äbð§TOø  ôÛ‰ÜØÆá  JN#RQÁêA€Š</tspan>
+
 </text>
-<text x="335" y="30" fill="#c9d1d9">
-<tspan x="335" y="30">About Me: ———————————————————————————————————————————————————————</tspan>
-<tspan x="335" y="50" class="cc">  </tspan><tspan class="value">Hello World! Welcome to my Github Profile!</tspan>
-<tspan x="335" y="68" class="cc">  </tspan><tspan class="value">My name is Kirone: Software Engineer | Computer Science Graduate @ UKZN</tspan>
-<tspan x="335" y="86" class="cc">  </tspan><tspan class="value">I love experiencing art in all forms, whether it be in code, games, shows, or music!</tspan>
-<tspan x="335" y="116">- Contact ———————————————————————————————————————————————————————</tspan>
+<text x="325" y="30" fill="#c9d1d9">
+<tspan x="325" y="30">About Me: ———————————————————————————————————————————————————————</tspan>
+<tspan x="325" y="50" class="cc">  </tspan><tspan class="value">Hello World! Welcome to my Github Profile!</tspan>
+<tspan x="325" y="68" class="cc">  </tspan><tspan class="value">My name is Kirone: Software Engineer | Computer Science Graduate @ UKZN</tspan>
+<tspan x="325" y="86" class="cc">  </tspan><tspan class="value">I love experiencing art in all forms, whether it be in code, games, shows, or music!</tspan>
+<tspan x="325" y="116">- Contact ———————————————————————————————————————————————————————</tspan>
 </text>
 
 <a href="mailto:kirgopaul+github@gmail.com">
-<text x="335" y="136" fill="#c9d1d9">
+<text x="325" y="136" fill="#c9d1d9">
 <tspan class="cc">  </tspan><tspan class="key">Email</tspan>: <tspan class="value">kirgopaul+github@gmail.com</tspan>
 </text>
 </a>
 
 <a href="https://linkedin.com/in/kironegopaul" target="_blank">
-<text x="335" y="154" fill="#c9d1d9">
+<text x="325" y="154" fill="#c9d1d9">
 <tspan class="cc">  </tspan><tspan class="key">LinkedIn</tspan>: <tspan class="value">https://linkedin.com/in/kironegopaul</tspan>
 </text>
 </a>
 
 <a href="https://kironegopaul.netlify.app/" target="_blank">
-<text x="335" y="172" fill="#c9d1d9">
+<text x="325" y="172" fill="#c9d1d9">
 <tspan class="cc">  </tspan><tspan class="key">Portfolio</tspan>: <tspan class="value">https://kironegopaul.netlify.app/</tspan>
 </text>
 </a>
 
-<text x="335" y="222" fill="#c9d1d9">
-<tspan x="335" y="222">- Technical Skills ———————————————————————————————————————————</tspan>
-<tspan x="335" y="242" class="cc">  </tspan><tspan class="key">Languages</tspan>:
-<tspan x="335" y="260" class="cc">    </tspan><tspan class="value">C++, C#, Delphi, Java, Python, SQL, TypeScript, HLSL/GLSL</tspan>
-<tspan x="335" y="285" class="cc">  </tspan><tspan class="key">Frameworks &amp; Libraries</tspan>:
-<tspan x="335" y="303" class="cc">    </tspan><tspan class="value">React, Node.js, FastAPI, Flask, Pandas, Unity, SFML</tspan>
-<tspan x="335" y="328" class="cc">  </tspan><tspan class="key">Cloud &amp; Tools</tspan>:
-<tspan x="335" y="346" class="cc">    </tspan><tspan class="value">AWS (EC2, DynamoDB), Oracle Cloud Infrastructure, Docker,</tspan>
-<tspan x="335" y="364" class="cc">    </tspan><tspan class="value">CI/CD (GitHub Actions), Git, Blender</tspan>
+<text x="325" y="222" fill="#c9d1d9">
+<tspan x="325" y="222">- Technical Skills ———————————————————————————————————————————</tspan>
+<tspan x="325" y="242" class="cc">  </tspan><tspan class="key">Languages</tspan>:
+<tspan x="325" y="260" class="cc">    </tspan><tspan class="value">C++, C#, Delphi, Java, Python, SQL, TypeScript, HLSL/GLSL</tspan>
+<tspan x="325" y="285" class="cc">  </tspan><tspan class="key">Frameworks &amp; Libraries</tspan>:
+<tspan x="325" y="303" class="cc">    </tspan><tspan class="value">React, Node.js, FastAPI, Flask, Pandas, Unity, SFML</tspan>
+<tspan x="325" y="328" class="cc">  </tspan><tspan class="key">Cloud &amp; Tools</tspan>:
+<tspan x="325" y="346" class="cc">    </tspan><tspan class="value">AWS (EC2, DynamoDB), Oracle Cloud Infrastructure, Docker,</tspan>
+<tspan x="325" y="364" class="cc">    </tspan><tspan class="value">CI/CD (GitHub Actions), Git, Blender</tspan>
 </text>
 </svg>
