@@ -17,7 +17,7 @@ text, tspan {white-space: pre;}
 a {text-decoration: none;}
 a:hover .value {fill: #58a6ff;}
 </style>
-<rect width="1100px" height="380px" fill="#161b22" rx="15"/>
+<rect width="1100px" height="350px" fill="#161b22" rx="15"/>
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
 <tspan x="12" y="30">           mÆNŠÁÈŒÅÊØÆŒ           </tspan>
 <tspan x="12" y="50">         ËÆÆÆÆÆØAÑÆÆÆÆÆÆÉ         </tspan>
@@ -35,7 +35,6 @@ a:hover .value {fill: #58a6ff;}
 <tspan x="12" y="290">        ­4y  `´*÷‰SŠ¶p  ÉÄ        </tspan>
 <tspan x="12" y="310">    ÌâGãbôw¸   Â"*n2   ˜WÂÂWQRÒ  </tspan>
 <tspan x="12" y="330">øméÜéÜškôfý    ÃªT    LææÂEÂqXêR</tspan>
-<tspan x="12" y="350">ÙøÿÖÚ$äbð§TOø  ôÛ‰ÜØÆá  JN#RQÁêA€Š</tspan>
 </text>
 
 <text x="325" y="30" fill="#c9d1d9">
@@ -65,7 +64,7 @@ a:hover .value {fill: #58a6ff;}
 </a>
 
 <text x="325" y="190" fill="#c9d1d9">
-<tspan x="325" y="190">Technical Skills —————————————————————————————————————————————</tspan>
+<tspan x="325" y="190">Technical Skills ————————————————————————————————————————————————</tspan>
 <tspan x="325" y="210" class="cc">  </tspan><tspan class="key">Languages</tspan>:
 <tspan x="325" y="230" class="cc">    </tspan><tspan class="value">C++, C#, Delphi, Java, Python, SQL, TypeScript, HLSL/GLSL</tspan>
 <tspan x="325" y="250" class="cc">  </tspan><tspan class="key">Frameworks &amp; Libraries</tspan>:
