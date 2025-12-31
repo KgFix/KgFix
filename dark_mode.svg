@@ -74,3 +74,4 @@ a:hover .value {fill: #58a6ff;}
 <tspan x="325" y="310" class="cc">    </tspan><tspan class="value">AWS (EC2, DynamoDB), Oracle Cloud Infrastructure, Docker,</tspan>
 <tspan x="325" y="330" class="cc">    </tspan><tspan class="value">CI/CD (GitHub Actions), Git, Blender</tspan>
 </text>
+</svg>
