@@ -63,14 +63,14 @@ a:hover .value {fill: #58a6ff;}
 </text>
 </a>
 
-<text x="390" y="202" fill="#c9d1d9">
-<tspan x="390" y="202">- Technical Skills ————————————————————————————————————————————————</tspan>
-<tspan x="390" y="222" class="cc">  </tspan><tspan class="key">Languages</tspan>:
-<tspan x="390" y="240" class="cc">    </tspan><tspan class="value">C++, C#, Delphi, Java, Python, SQL, TypeScript, HLSL/GLSL</tspan>
-<tspan x="390" y="265" class="cc">  </tspan><tspan class="key">Frameworks &amp; Libraries</tspan>:
-<tspan x="390" y="283" class="cc">    </tspan><tspan class="value">React, Node.js, FastAPI, Flask, Pandas, Unity, SFML</tspan>
-<tspan x="390" y="308" class="cc">  </tspan><tspan class="key">Cloud &amp; Tools</tspan>:
-<tspan x="390" y="326" class="cc">    </tspan><tspan class="value">AWS (EC2, DynamoDB), Oracle Cloud Infrastructure, Docker,</tspan>
-<tspan x="390" y="344" class="cc">    </tspan><tspan class="value">CI/CD (GitHub Actions), Git, Blender</tspan>
+<text x="390" y="210" fill="#c9d1d9">
+<tspan x="390" y="210">- Technical Skills ————————————————————————————————————————————————</tspan>
+<tspan x="390" y="230" class="cc">  </tspan><tspan class="key">Languages</tspan>:
+<tspan x="390" y="248" class="cc">    </tspan><tspan class="value">C++, C#, Delphi, Java, Python, SQL, TypeScript, HLSL/GLSL</tspan>
+<tspan x="390" y="273" class="cc">  </tspan><tspan class="key">Frameworks &amp; Libraries</tspan>:
+<tspan x="390" y="291" class="cc">    </tspan><tspan class="value">React, Node.js, FastAPI, Flask, Pandas, Unity, SFML</tspan>
+<tspan x="390" y="316" class="cc">  </tspan><tspan class="key">Cloud &amp; Tools</tspan>:
+<tspan x="390" y="334" class="cc">    </tspan><tspan class="value">AWS (EC2, DynamoDB), Oracle Cloud Infrastructure, Docker,</tspan>
+<tspan x="390" y="352" class="cc">    </tspan><tspan class="value">CI/CD (GitHub Actions), Git, Blender</tspan>
 </text>
 </svg>
