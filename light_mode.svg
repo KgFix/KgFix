@@ -1,1 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1100px" height="380px" font-size="15px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.cc {fill: #c2cfde;}
+text, tspan {white-space: pre;}
+a {text-decoration: none;}
+a:hover .value {fill: #0969da;}
+</style>
+<rect width="1100px" height="350px" fill="#f6f8fa" rx="15"/>
+<text x="15" y="30" fill="#24292f" class="ascii">
+<tspan x="12" y="30">           mÆNŠÁÈŒÅÊØÆŒ           </tspan>
+<tspan x="12" y="50">         ËÆÆÆÆÆØAÑÆÆÆÆÆÆÉ         </tspan>
+<tspan x="12" y="70">        ØÃÆÆÄÄÃÆÆMÆÑÆÆÆÆMÉþ       </tspan>
+<tspan x="12" y="90">        ŒÆÂm–vãâEØŒÃËÆÆÆÆÆË:      </tspan>
+<tspan x="12" y="110">        Êþz¹'  –£RŽÜÂŒÑÑÊËÁ      </tspan>
+<tspan x="12" y="130">         Æ*  ­‡  jðÆh§ñŠÆÁ        </tspan>
+<tspan x="12" y="150">         õ…ïIÃ½—;ÚÃâbÂMžeú       </tspan>
+<tspan x="12" y="170">         ›    ¸  ™ÿýñ4@¢¢        </tspan>
+<tspan x="12" y="190">                 ?ôDõyô5v        </tspan>
+<tspan x="12" y="210">          ÷­   '*2ñžy®PZ          </tspan>
+<tspan x="12" y="230">          ¡ª¸ ˜/¡9P4¾hëP         </tspan>
+<tspan x="12" y="250">            |¨  ¸c0yÇýë          </tspan>
+<tspan x="12" y="270">            :²¨  JfZøŠA          </tspan>
+<tspan x="12" y="290">        ­4y  `´*÷‰SŠ¶p  ÉÄ        </tspan>
+<tspan x="12" y="310">    ÌâGãbôw¸   Â"*n2   ˜WÂÂWQRÒ  </tspan>
+<tspan x="12" y="330">øméÜéÜškôfý    ÃªT    LææÂEÂqXêR</tspan>
+</text>
 
+<text x="325" y="30" fill="#24292f">
+<tspan x="325" y="30">About Me ————————————————————————————————————————————————————————</tspan>
+<tspan x="325" y="50" class="cc">  </tspan><tspan class="value">Hello World! Welcome to my Github Profile!</tspan>
+<tspan x="325" y="70" class="cc">  </tspan><tspan class="value">My name is Kirone: Software Engineer | Computer Science Graduate @ UKZN</tspan>
+<tspan x="325" y="90" class="cc">  </tspan><tspan class="value">I love experiencing art in all forms, whether it be in code, games, shows, or music!</tspan>
+<tspan x="325" y="110">Contact —————————————————————————————————————————————————————————</tspan>
+</text>
+
+<a href="mailto:kirgopaul+github@gmail.com">
+<text x="325" y="130" fill="#24292f">
+<tspan class="cc">  </tspan><tspan class="key">Email</tspan>: <tspan class="value">     kirgopaul+github@gmail.com</tspan>
+</text>
+</a>
+
+<a href="https://linkedin.com/in/kironegopaul" target="_blank">
+<text x="325" y="150" fill="#24292f">
+<tspan class="cc">  </tspan><tspan class="key">LinkedIn</tspan>: <tspan class="value">  https://linkedin.com/in/kironegopaul</tspan>
+</text>
+</a>
+
+<a href="https://kironegopaul.netlify.app/" target="_blank">
+<text x="325" y="170" fill="#24292f">
+<tspan class="cc">  </tspan><tspan class="key">Portfolio</tspan>: <tspan class="value"> https://kironegopaul.netlify.app/</tspan>
+</text>
+</a>
+
+<text x="325" y="210" fill="#24292f">
+<tspan x="325" y="210">Technical Skills ————————————————————————————————————————————————</tspan>
+<tspan x="325" y="230" class="cc">  </tspan><tspan class="key">Languages</tspan>:
+<tspan x="325" y="250" class="cc">  </tspan><tspan class="value">C++, C#, Delphi, Java, Python, SQL, TypeScript, HLSL/GLSL</tspan>
+<tspan x="325" y="270" class="cc">  </tspan><tspan class="key">Frameworks &amp; Libraries</tspan>:
+<tspan x="325" y="290" class="cc">  </tspan><tspan class="value">React, Node.js, FastAPI, Flask, Pandas, Unity, SFML</tspan>
+<tspan x="325" y="310" class="cc">  </tspan><tspan class="key">Cloud &amp; Tools</tspan>:
+<tspan x="325" y="330" class="cc">  </tspan><tspan class="value">AWS (EC2, DynamoDB), Oracle Cloud Infrastructure, Docker,</tspan>
+<tspan x="325" y="350" class="cc">  </tspan><tspan class="value">CI/CD (GitHub Actions), Git, Blender</tspan>
+</text>
+</svg>
