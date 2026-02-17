@@ -10,27 +10,27 @@ a:hover .value {fill: #58a6ff;}
 </style>
 <rect width="1100px" height="410px" fill="#161b22" rx="15"/>
 
-<!-- ASCII ART (Content from Original, Position from Current) -->
+<!-- NEW ASCII ART (Aligned to Right-Side Text) -->
 <text x="15" y="30" fill="#c9d1d9">
-<tspan x="15" y="30">           mÆNŠÁÈŒÅÊØÆŒ           </tspan>
-<tspan x="15" y="50">         ËÆÆÆÆÆØAÑÆÆÆÆÆÆÉ         </tspan>
-<tspan x="15" y="70">        ØÃÆÆÄÄÃÆÆMÆÑÆÆÆÆMÉþ       </tspan>
-<tspan x="15" y="90">        ŒÆÂm–vãâEØŒÃËÆÆÆÆÆË:      </tspan>
-<tspan x="15" y="110">        Êþz¹'  –£RŽÜÂŒÑÑÊËÁ      </tspan>
-<tspan x="15" y="130">         Æ*  ­‡  jðÆh§ñŠÆÁ        </tspan>
-<tspan x="15" y="150">         õ…ïIÃ½—;ÚÃâbÂMžeú       </tspan>
-<tspan x="15" y="170">         ›    ¸  ™ÿýñ4@¢¢        </tspan>
-<tspan x="15" y="190">                 ?ôDõyô5v        </tspan>
-<tspan x="15" y="210">          ÷­   '*2ñžy®PZ          </tspan>
-<tspan x="15" y="230">          ¡ª¸ ˜/¡9P4¾hëP         </tspan>
-<tspan x="15" y="250">            |¨  ¸c0yÇýë          </tspan>
-<tspan x="15" y="270">            :²¨  JfZøŠA          </tspan>
-<tspan x="15" y="290">        ­4y  `´*÷‰SŠ¶p  ÉÄ        </tspan>
-<tspan x="15" y="310">    ÌâGãbôw¸   Â"*n2   ˜WÂÂWQRÒ  </tspan>
-<tspan x="15" y="330">øméÜéÜškôfý    ÃªT    LææÂEÂqXêR</tspan>
+<tspan x="15" y="30">                :+#*%%@:            </tspan>
+<tspan x="15" y="55">             @@@@@@@@@@@@           </tspan>
+<tspan x="15" y="75">           %@@@@@@@@@@@@@@@         </tspan>
+<tspan x="15" y="95">          :@@@*++%@@@@@@@@@@        </tspan>
+<tspan x="15" y="125">           @@-.  :=@#@@@@@@         </tspan>
+<tspan x="15" y="150">            #.  :. +@#**#@          </tspan>
+<tspan x="15" y="170">            :.:@*- %@%%%+@          </tspan>
+<tspan x="15" y="190">            .      +#*+==#          </tspan>
+<tspan x="15" y="225">             .   ..%%+***#          </tspan>
+<tspan x="15" y="250">             ::   :=*+*#*           </tspan>
+<tspan x="15" y="270">              ::   =**##            </tspan>
+<tspan x="15" y="295">               .. .+#%%%-           </tspan>
+<tspan x="15" y="315">           #++  ...-*#%  @@%        </tspan>
+<tspan x="15" y="340">      *#####+*    @==   *@@@@%%%#   </tspan>
+<tspan x="15" y="360">  #%%#######++#  ++#@*  #@@@@%%%%@@%</tspan>
+<tspan x="15" y="380">  #*****###**+#   %#@:  *@@%%@%%%%@@</tspan>
 </text>
 
-<!-- ABOUT ME (Restored to Original Paragraph Style) -->
+<!-- ABOUT ME -->
 <text x="325" y="30" fill="#c9d1d9">
 <tspan x="325" y="30">About Me ————————————————————————————————————————————————————————</tspan>
 <tspan x="325" y="55" class="cc">  </tspan><tspan class="value">Hello World! Welcome to my Github Profile!</tspan>
@@ -39,7 +39,7 @@ a:hover .value {fill: #58a6ff;}
 <tspan x="325" y="125">Contact —————————————————————————————————————————————————————————</tspan>
 </text>
 
-<!-- CONTACT SECTION (Original Wrap Border) -->
+<!-- CONTACT SECTION -->
 <a href="mailto:kirgopaul+github@gmail.com">
 <text x="325" y="150" fill="#c9d1d9">
 <tspan class="cc">  </tspan><tspan class="key">Email</tspan>: <tspan class="value">     kirgopaul+github@gmail.com</tspan>
@@ -58,7 +58,7 @@ a:hover .value {fill: #58a6ff;}
 </text>
 </a>
 
-<!-- TECH SKILLS (Updated Content) -->
+<!-- TECH SKILLS -->
 <text x="325" y="225" fill="#c9d1d9">
 <tspan x="325" y="225">Technical Skills ————————————————————————————————————————————————</tspan>
 <tspan x="325" y="250" class="cc">  </tspan><tspan class="key">Languages</tspan>:
