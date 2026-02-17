@@ -58,13 +58,13 @@ a:hover .value {fill: #58a6ff;}
 </text>
 </a>
 
-<!-- TECH SKILLS (Restored to Original Wrap Border) -->
+<!-- TECH SKILLS (Updated Content) -->
 <text x="325" y="225" fill="#c9d1d9">
 <tspan x="325" y="225">Technical Skills ————————————————————————————————————————————————</tspan>
 <tspan x="325" y="250" class="cc">  </tspan><tspan class="key">Languages</tspan>:
 <tspan x="325" y="270" class="cc">  </tspan><tspan class="value">C++, C#, Delphi, Java, Python, SQL, TypeScript, HLSL/GLSL</tspan>
 <tspan x="325" y="295" class="cc">  </tspan><tspan class="key">Frameworks &amp; Libraries</tspan>:
-<tspan x="325" y="315" class="cc">  </tspan><tspan class="value">React, Node.js, FastAPI, Flask, Pandas, Unity, SFML</tspan>
+<tspan x="325" y="315" class="cc">  </tspan><tspan class="value">.NET / ASP.NET Core, React, Node.js, FastAPI, Flask, Pandas, Unity, SFML</tspan>
 <tspan x="325" y="340" class="cc">  </tspan><tspan class="key">Cloud &amp; Tools</tspan>:
 <tspan x="325" y="360" class="cc">  </tspan><tspan class="value">AWS (EC2, DynamoDB), Oracle Cloud Infrastructure, Docker,</tspan>
 <tspan x="325" y="380" class="cc">  </tspan><tspan class="value">CI/CD (GitHub Actions), Git, Blender</tspan>
