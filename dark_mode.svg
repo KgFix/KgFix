@@ -32,11 +32,11 @@ a:hover .value {fill: #58a6ff;}
 
 <!-- RIGHT SIDE: PROFILE DATA (Aligned line-for-line with the left) -->
 <text x="325" y="30" fill="#c9d1d9">
-<tspan x="325" y="30">About Me ————————————————————————————————————————————————————————</tspan>
+<tspan x="325" y="30">About Me ———————————————————————————————————————————————————————————————————————</tspan>
 <tspan x="325" y="52" class="cc">  </tspan><tspan class="value">Hello World! Welcome to my Github Profile!</tspan>
 <tspan x="325" y="74" class="cc">  </tspan><tspan class="value">My name is Kirone: Software Engineer | Computer Science Honours Student @ UKZN</tspan>
 <tspan x="325" y="96" class="cc">  </tspan><tspan class="value">I love experiencing art in all forms, with my chosen medium being code!</tspan>
-<tspan x="325" y="118">Contact —————————————————————————————————————————————————————————</tspan>
+<tspan x="325" y="118">Contact ———————————————————————————————————————————————————————————————————————</tspan>
 </text>
 
 <a href="mailto:kirgopaul+github@gmail.com">
@@ -58,7 +58,7 @@ a:hover .value {fill: #58a6ff;}
 </a>
 
 <text x="325" y="206" fill="#c9d1d9">
-<tspan x="325" y="206">Technical Skills ————————————————————————————————————————————————</tspan>
+<tspan x="325" y="206">Technical Skills ———————————————————————————————————————————————————————————————————————</tspan>
 <tspan x="325" y="228" class="cc">  </tspan><tspan class="key">Languages</tspan>:
 <tspan x="325" y="250" class="cc">  </tspan><tspan class="value">C++, C#, Delphi, Java, Python, SQL, TypeScript, HLSL/GLSL</tspan>
 <tspan x="325" y="272" class="cc">  </tspan><tspan class="key">Frameworks &amp; Libraries</tspan>:
