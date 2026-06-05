@@ -34,7 +34,7 @@ a:hover .value {fill: #58a6ff;}
 <text x="325" y="30" fill="#c9d1d9">
 <tspan x="325" y="30">About Me ————————————————————————————————————————————————————————</tspan>
 <tspan x="325" y="52" class="cc">  </tspan><tspan class="value">Hello World! Welcome to my Github Profile!</tspan>
-<tspan x="325" y="74" class="cc">  </tspan><tspan class="value">My name is Kirone: Software Engineer | Computer Science Graduate @ UKZN</tspan>
+<tspan x="325" y="74" class="cc">  </tspan><tspan class="value">My name is Kirone: Software Engineer | Computer Science Honours Student @ UKZN</tspan>
 <tspan x="325" y="96" class="cc">  </tspan><tspan class="value">I love experiencing art in all forms, with my chosen medium being code!</tspan>
 <tspan x="325" y="118">Contact —————————————————————————————————————————————————————————</tspan>
 </text>
